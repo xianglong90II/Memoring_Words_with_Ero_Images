@@ -1,0 +1,12 @@
+安全ドア（あんぜん）	Safety Gate
+非常停止（ひじょうていし）	Emergency Stop
+色変え（いろかえ）	Color Change
+パージ材（ざい）	Purge Material
+樹脂温度（じゅしおんど）	Resin Thermal
+型温（かたおん）	Mold Thermal
+ヒートアップ	Heat Up
+空打ち（からうち）	Air Shot
+試作（しさく）	Try
+離型（りけい）	Mold Release
+離型剤（りけいざい）	Mold Release Agent
+防錆剤（ぼうせいざい）	Rust Preventatives
